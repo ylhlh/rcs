@@ -2,3 +2,8 @@ LALALA
 ABCDE
 Dewi Tan Jia Hui
 Bernard Koh
+<<<<<<< HEAD
+BLAHGAG
+=======
+Lin Han
+>>>>>>> 044fa1e5e200d066d0c3d29f73128d7519e2fb84
