@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 LALALA
+=======
+ABCDE
+>>>>>>> ea2d7fff481fa0576523edd33c500df8ae46cd9b
 Dewi Tan Jia Hui
 Bernard Koh
